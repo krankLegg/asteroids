@@ -11,6 +11,13 @@ A simple asteroids game
 - load the python virtual environment: `source .venv/bin/activate`
 - start the game: `python3 main.py`
 
+#### Game Controls
+w - forward
+s - backward
+a - turn left
+d - turn right
+spacebar - shoot
+
 #### Expansion Ideas:
 - Add game over screen
 - Add restart option
