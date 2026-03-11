@@ -1,7 +1,13 @@
 #### About:
 A simple asteroids game
 
+#### Dependencies
+- Python 3
+- pygame
+
 #### Running the game:
+- install dependencies
+- create the python virtual environment: `python3 -m venv .venv`
 - load the python virtual environment: `source .venv/bin/activate`
 - start the game: `python3 main.py`
 
