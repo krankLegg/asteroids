@@ -20,7 +20,6 @@ A simple asteroids game
 | a | turn right | 
 | d | turn left | 
 | spacebar | shoot | 
-| | |
 
 #### Expansion Ideas:
 - Add game over screen
