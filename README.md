@@ -12,11 +12,15 @@ A simple asteroids game
 - start the game: `python3 main.py`
 
 #### Game Controls
-w - forward
-s - backward
-a - turn left
-d - turn right
-spacebar - shoot
+
+| Key | Control |
+| --- | --- | 
+| w | forward | 
+| s | backward | 
+| a | turn right | 
+| d | turn left | 
+| spacebar | shoot | 
+| | |
 
 #### Expansion Ideas:
 - Add game over screen
